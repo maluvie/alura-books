@@ -1,5 +1,3 @@
-```
-
 # AluraBooks
 
 Página web desenvolvida através de HTML/CSS em curso mobile-first.
@@ -16,4 +14,3 @@ Página web desenvolvida através de HTML/CSS em curso mobile-first.
 
 ### Linkedin: https://www.linkedin.com/in/maria-luiza-vieira-a040a6141/
 
-```
